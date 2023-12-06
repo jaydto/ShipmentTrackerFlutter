@@ -58,9 +58,9 @@ Let us know your thoughts below. And good luck with development!
 
 ## Demo
 
-| Home Screen | Profile Screen | Onboarding Screen | Register Screen |
-| --- | --- | --- | --- |
-| [![Home Screen](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/home.png)] | [![Profile Screen](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/Profile.png)] | [![Onboarding Screen](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/onBoarding.png)] | [![Register Screen](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/registration_accept_terms.png), (https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/registration_pass.png), (https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/registration_complete.png)](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/registration_phone.png) |
+| Home Screen | Profile Screen | Shipment History Screen | ShipMent History Screen 2 | Calculator Screen | Calculator Screen 2 | Calculator Screen 3 | Maps Screen| Maps Normal| Search | Search 2 | Categories Bottom Sheet
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+| [![Home Screen](screenshots/home.jpeg)] | [![Profile Screen](screenshots/profile.jpeg)] | [![Shipment History](screenshots/all-shipments.jpeg)] | [![Shipment 2](screenshots/shipment-history.jpeg),] |  [![Calculator](screenshots/calculate-option.jpeg),] | [![Calculator 2](screenshots/calculator.jpeg),] |  [![Maps](screenshots/map-normal.jpeg),] | [![Maps2 ](screenshots/maps.jpeg),] |  [![Maps search](screenshots/maps-search.jpeg),] |  [![Categories](screenshots/categories-bottomsheet.jpeg),] |
 
 - [Start page](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/home.png)
 - [How to install our product](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/README.md)
@@ -93,77 +93,29 @@ Within the download you'll find the following directories and files:
 │   ├── actions
 │   │   ├── api_actions.dart
 │   │   ├── auth_actions.dart
-│   │   ├── betting_actions.dart
-│   │   ├── data_actions.dart
-│   │   ├── index_actions.dart
-│   │   ├── matches_actions.dart
-│   │   ├── nare_league_actions.dart
-│   │   └── virtual_actions.dart
+│   │   └── navigations_actions.dart
 │   ├── constants
 │   │   ├── ActionConstants.dart
 │   │   └── Theme.dart
-│   ├── firebase_options.dart
 │   ├── main.dart
 │   ├── middleware
 │   │   └── api_middleware.dart
-│   ├── modals
-│   │   └── market-filters.dart
-│   ├── models
-│   │   └── imageresize.dart
 │   ├── reducers
 │   │   ├── auth_reducer.dart
-│   │   ├── betting_reducer.dart
-│   │   ├── data_reducer.dart
 │   │   ├── index.dart
-│   │   ├── matches_reducer.dart
-│   │   ├── nare_league_reducer.dart
-│   │   └── virtual_reducer.dart
+│   │   └── navigations_reducer.dart
 │   ├── screens
-│   │   ├── AntimoneyLaundering.dart
-│   │   ├── BetHistory.dart
-│   │   ├── Betslip.dart
-│   │   ├── BetslipPage.dart
-│   │   ├── Casino.dart
-│   │   ├── CasinoGamePlay.dart
-│   │   ├── CookiePolicy.dart
-│   │   ├── Deposit3.dart
-│   │   ├── DisputeResolution.dart
-│   │   ├── FPL.dart
+│   │   ├── Calculator.dart
 │   │   ├── Help.dart
-│   │   ├── Jackpot.dart
-│   │   ├── Kiron.dart
-│   │   ├── LeaderBoard.dart
-│   │   ├── Live.dart
-│   │   ├── LiveCasino.dart
-│   │   ├── Logout.dart
-│   │   ├── MoreMarkets.dart
-│   │   ├── Mybets.dart
-│   │   ├── NewProfile.dart
-│   │   ├── PageNotFound.dart
-│   │   ├── PrintMatches.dart
+│   │   ├── LandingPage.dart
+│   │   ├── Maps.dart
+│   │   ├── NotificationsPage.dart
+│   │   ├── PricingCard.dart
 │   │   ├── PrivacyPolicy.dart
-│   │   ├── Promo.dart
-│   │   ├── RedeemPoints.dart
-│   │   ├── ResetPassword.dart
-│   │   ├── ResponsibleGambling.dart
-│   │   ├── ShaksGamePlay.dart
-│   │   ├── Signup.dart
-│   │   ├── SmartPlay.dart
-│   │   ├── SmartSoftPlay.dart
-│   │   ├── SpribeGamePlay.dart
-│   │   ├── SpribeGames.dart
 │   │   ├── TermsAndConditions.dart
-│   │   ├── VerifyAccount.dart
-│   │   ├── Withdraw.dart
-│   │   ├── articles.dart
 │   │   ├── bottomNavigations.dart
-│   │   ├── elements.dart
 │   │   ├── home.dart
-│   │   ├── login.dart
-│   │   ├── onboarding.dart
-│   │   ├── profile.dart
-│   │   ├── promotions.dart
-│   │   └── register.dart
+│   │   └── profile.dart
 │   ├── services
 │   │   ├── api_services.dart
 │   │   └── local_storage.dart
@@ -171,17 +123,12 @@ Within the download you'll find the following directories and files:
 │   │   ├── app_state.dart
 │   │   └── store.dart
 │   ├── thunk_actions
-│   │   ├── auth_thunk_actions.dart
-│   │   ├── betting_thunk_actions.dart
-│   │   ├── data_thunk_actions.dart
-│   │   ├── matches_thunk_Actions.dart
-│   │   ├── nare_league_thunk_actions.dart
-│   │   └── virtual_thunk_actions.dart
+│   │   └── auth_thunk_actions.dart
 │   ├── utils
 │   │   ├── adapt.dart
 │   │   ├── imageurl.dart
 │   │   ├── route-observer.dart
-│   │   └── sport_functions.dart
+│   │   └── shipment_tracker_functions.dart
 │   └── widgets
 │       ├── app_update.dart
 │       ├── auth
@@ -197,54 +144,32 @@ Within the download you'll find the following directories and files:
 │       ├── card-shopping.dart
 │       ├── card-small.dart
 │       ├── card-square.dart
-│       ├── carousel_loader.dart
 │       ├── drawer-tile.dart
 │       ├── drawer.dart
 │       ├── input.dart
-│       ├── kiron
-│       │   ├── kiron-body.dart
-│       │   ├── kiron-matches.dart
-│       │   ├── nare-league-competition-countries.dart
-│       │   ├── nare-periods.dart
-│       │   └── nare-tabs.dart
-│       ├── mobile-nav1.dart
+│       ├── list_data.dart
 │       ├── navbar.dart
+│       ├── onboarding_carousel.dart
 │       ├── search_widget.dart
 │       ├── slider-product.dart
-│       └── sportbook
-│           ├── Live
-│           │   ├── live-list-scroll.dart
-│           │   ├── live_list_scroll_data.dart
-│           │   └── live_nav.dart
-│           ├── MoreMarkets
-│           │   ├── matches-webview.dart
-│           │   ├── mkt-button.dart
-│           │   ├── more-markets-list.dart
-│           │   ├── more-matches-header.dart
-│           │   └── more_matches.dart
-│           ├── jackpot
-│           │   ├── card-jp.dart
-│           │   ├── jackpot-results.dart
-│           │   ├── jackpot_body.dart
-│           │   ├── jackpot_matches.dart
-│           │   ├── jackpot_matches_history.dart
-│           │   ├── jackpot_menu.dart
-│           │   ├── jp_buttons_results.dart
-│           │   └── jp_terms.dart
-│           ├── prematch
-│           │   ├── list-scroll.dart
-│           │   └── list_scroll_data.dart
-│           └── shared
-│               ├── emptyOddButton.dart
-│               ├── main-tabs.dart
-│               ├── match-header-row.dart
-│               ├── match-list.dart
-│               ├── skeleton-loader-mobile.dart
-│               └── three-way-button.dart
+│       └── table-cell.dart
 ├── pubspec.lock
 ├── pubspec.yaml
 └── test
-    └── widget_test.dart
+├── screenshots
+│   ├── all-shipments.jpeg
+│   ├── calculate-option.jpeg
+│   ├── calculator.jpeg
+│   ├── categories-bottomsheet.jpeg
+│   ├── cost-calculator.jpeg
+│   ├── home.jpeg
+│   ├── map-normal.jpeg
+│   ├── maps-search.jpeg
+│   ├── maps.jpeg
+│   ├── profile.jpeg
+│   ├── search.jpeg
+│   └── shipment-history.jpeg
+└── widget_test.dart
 ```
 
 
