@@ -60,7 +60,7 @@ Let us know your thoughts below. And good luck with development!
 
 | Home Screen | Profile Screen | Shipment History Screen | ShipMent History Screen 2 | Calculator Screen | Calculator Screen 2 | Calculator Screen 3 | Maps Screen| Maps Normal| Search | Search 2 | Categories Bottom Sheet
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-| [![Home Screen](screenshots/home.jpeg)] | [![Profile Screen](screenshots/profile.jpeg)] | [![Shipment History](screenshots/all-shipments.jpeg)] | [![Shipment 2](screenshots/shipment-history.jpeg),] |  [![Calculator](screenshots/calculate-option.jpeg),] | [![Calculator 2](screenshots/calculator.jpeg),] |  [![Maps](screenshots/map-normal.jpeg),] | [![Maps2 ](screenshots/maps.jpeg),] |  [![Maps search](screenshots/maps-search.jpeg),] |  [![Categories](screenshots/categories-bottomsheet.jpeg),] |
+| ![Home Screen](screenshots/home.jpeg) | ![Profile Screen](screenshots/profile.jpeg) | ![Shipment History](screenshots/all-shipments.jpeg) | ![Shipment 2](screenshots/shipment-history.jpeg) | ![Calculator](screenshots/calculate-option.jpeg) | ![Calculator 2](screenshots/calculator.jpeg) | ![Maps](screenshots/map-normal.jpeg) | ![Maps2 ](screenshots/maps.jpeg) | ![Maps search](screenshots/maps-search.jpeg) | ![Categories](screenshots/categories-bottomsheet.jpeg) |
 
 - [Start page](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/screenshots/home.png)
 - [How to install our product](https://github.com/jaydto/ShipmentTrackerFlutter-flutter-app/tree/master/README.md)
