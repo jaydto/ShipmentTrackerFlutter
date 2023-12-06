@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "name": "KARIBU GIFT WALLET",
+    "img": "assets/img/products/Bet_Nare_3000_karibu_gift_Mobile.webp",
+    "heading": "HOW TO PLAY",
+    "intro": "1.1 Register and Get the QuickSava Bet Booster of UPTO 3,000/= FREE \nor \n1.2 Get UPTO 3,000 of registration as Free Nare Booster to be used on QuickSava when placing bets (in the Betslip) \n1.3 Start using your BOOSTERS immediately on your 1st Cash Bet",
+    "instructions": "HOW TO GET THE  NARE BOOSTER GIFT",
+    "description": "✅REGISTER on QuickSava.\n ✅Get UPTO 3,000 of registration as Free Nare Booster to be used on QuickSava when placing bets (in the Betslip)\n✅Start using your BOOSTERS immediately on your 1 st Cash Bet.",
+    "headingBooster": "HOW TO USE THE BOOSTERS",
+    "boosterDescription": "✅Place a bet with a minimum of odds of 1.5 per leg\n✅A minimum of 4 games on a Multi Bet.\n✅QuickSava will top up your stake by 20% of the stake used. e.g., When you stake 50/= QuickSava will boost your stake by 20% meaning your stake will be 60/=, if you place a Stake of 200/=, QuickSava will boost it to 240/=",
+    "nb": "  - Kindly Note that the Maximum Gift Bonus One can be topped up with is 40/= PER TICKET.  - Kindly Note that the BOOSTER wallet funds Do Not have an expiry date",
+    "termsHeading": "TERMS AND CONDITIONS",
+    "termsContent": "✅ One account one Nare Booster. Accounts with the same IP address and same Password will be regarded as the same customer and will not be able to claim the Booster Gift. First Deposit Gifts would be available only if the user makes a deposit within the first 3 months of account opening. \n✅ Once you REGISTER you get GIFT BOOSTER in total value of up to KES.3,000. \n✅ You will receive all the gifts once you REGISTER . The gifts will become valid only on cash bets. \n✅ The Gifts can only be used for &quot;Real Sports&quot; and no on Virtuals , Jackpot an Casino. \n✅ These Free Bet Gifts can only be used to place bets with 4+ selections with at least 4 selections having Odds &gt; 1.5. \n✅ Only 1 Booster Gift can be used in 1 Betslip. \n✅ In this promotion, QuickSava only allows one chance to award Gifts per person / mobile number/ IP address/device number. \n✅ Duplicate accounts will be closed and will not qualify for this offer. Any winnings obtained unlawfully from this bonus will be removed. Promotion and Gifts ar created in order to reward our most valued customers.",
+    "active": true,
+    "show": true,
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/1"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "650 FOR 650 PROMOTION TERMS AND CONDITIONS",
+    "img": "assets/img/products/FreeKickBonanzaWeb.webp",
+    "heading": "HOW TO PLAY",
+    "intro": "✅Place a Cash Sports bet on QuickSava\n✅Place a bet of equivalent amount using the Bonus.\n✅Enjoy your winnings",
+    "instructions": "HOW TO GET BONUS",
+    "description": "✅Deposit 650/= in your QuickSava Account.\n✅Get 650 FREE Sports Bet Bonus Instantly.\n✅Start using your deposit bonus immediately",
+    "termsHeading": "TERMS AND CONDITIONS",
+    "termsContent": "1.\tThe bonus will be credited to the customer's account automatically once they have made their deposit.\n2.\tThe Bonus will be Awarded to any Deposit of the Day which will be an equivalent amount of 650/=.\n3.\tThe Bonus SHOULD be used within 13 days after depositing. All Bonuses and Bonus winnings accumulated during the Bonus Promotion period will be revoked at the end of the campaign period.\n4.\tTo use the bonus the customer will be required to have placed an equivalent Sports Cash Bet on Minimum odds of 1.9\n5.\tThe Bonus can only be used to place a Sports bet on a Minimum of 4 Games with a Minimum odd of 2.1 on each leg.\n6.\tThe Maximum Bonus Gross Winnings are 10,000 Kenya Shillings Less Initial Stake.\n7.\tCash Bet Cancellation will NOT be allowed when the customer has an ACTIVE bonus bet during this promotion.\n8.\tShipment Tracker may limit or refuse to allow customers to take part in this or any other offer.\n9.\tShipment Tracker reserves the right to review customer transaction records and logs for any reason. If, upon such review, it appears that a customer is using strategies which QuickSava, at its sole discretion, deems to be abusive, QuickSava reserves the right to revoke that customer's right to participate in the bonus program and void their bonus and or winnings.\n10.\tOnly ONE bonus is allowed per customer, family, address, shared computer, shared IP address. Any misuse of this bonus offer will lead to an account being closed.\n",
+    "nb": "\uD83C\uDF87\tWithin the next 14 days, ONCE you DEPOSIT 650/=, QuickSava Rewards you 650/= BONUS INSTANTLY.\nShipment Tracker has the right to amend the terms of the offer, cancel or renew the offer, or refuse to allow participation at any time without prior notice.\nCustomers must provide ID documents, when required, to validate their identity (KYC). Failure to produce these documents when requested will result in the forfeit of any bonuses/winnings.\nIf QuickSava believes itself to be the victim of fraud or money laundering, the company has the right to close customers' accounts and freeze the remaining balance.\n",
+    "active": true,
+    "show": true,
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/10"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "500 FOR 500 PROMOTION TERMS AND CONDITIONS",
+    "img": "https://cdn.quicksava.com/carousel/MegaMatchBonusWeb.webp",
+    "heading": "HOW TO PLAY",
+    "intro": "✅Place a Cash Sports bet on QuickSava\n✅Place a bet of equivalent amount using the Bonus.\n✅Enjoy your winnings",
+    "instructions": "HOW TO GET BONUS",
+    "description": "✅Deposit 500/= in your QuickSava Account.\n✅Get 500/= FREE Sports Bet Bonus Instantly.\n✅Start using your deposit bonus immediately",
+    "termsHeading": "TERMS AND CONDITIONS",
+    "termsContent": "1.\tThe bonus will be credited to the customer's account automatically once they have made their deposit.\n2.\tThe Bonus will be Awarded ONLY on Deposits which HAVE be of an equivalent amount of 500/=.\n3.\tThe Bonus SHOULD be used within 13 days after depositing. All Bonuses and Bonus winnings accumulated during the Bonus Promotion period will be revoked at the end of the campaign period.\n4.\tTo use the bonus the customer will be required to have placed an equivalent Sports Cash Bet on Minimum odds of 1.9\n5.\tThe Bonus can only be used to place a Sports bet on a Minimum of 4 Games with a Minimum odd of 2.1 on each leg.\n6.\tThe Maximum Bonus Gross Winnings are 10,000 Kenya Shillings Less Initial Stake.\n7.\tCash Bet Cancellation will NOT be allowed when the customer has an ACTIVE bonus bet during this promotion.\n8.\tShipment Tracker may limit or refuse to allow customers to take part in this or any other offer.\n9.\tShipment Tracker reserves the right to review customer transaction records and logs for any reason. If, upon such review, it appears that a customer is using strategies which QuickSava, at its sole discretion, deems to be abusive, QuickSava reserves the right to revoke that customer's right to participate in the bonus program and void their bonus and or winnings.\n10.\tOnly ONE bonus is allowed per customer, family, address, shared computer, shared IP address. Any misuse of this bonus offer will lead to an account being closed.\n",
+    "nb": "\uD83C\uDF87\tWithin the next 14 days, ONCE you DEPOSIT 500/=, QuickSava Rewards you 500/= BONUS INSTANTLY.\nShipment Tracker has the right to amend the terms of the offer, cancel or renew the offer, or refuse to allow participation at any time without prior notice.\nCustomers must provide ID documents, when required, to validate their identity (KYC). Failure to produce these documents when requested will result in the forfeit of any bonuses/winnings.\nIf QuickSava believes itself to be the victim of fraud or money laundering, the company has the right to close customers' accounts and freeze the remaining balance.\n",
+    "active": false,
+    "show": true,
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/11"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "CHOMOKA NA NDUTHI ",
+    "img": "https://cdn.quicksava.com/carousel/chomokananduthi.webp",
+    "heading": "HOW TO PLAY",
+    "intro": "✅Place a valid cash bet of KES 49/= and above on Sportsbook matches, to get an entry.\n✅The more the entries, the higher your chances of winning.\n✅The promotion will run from 27/09/2023 to 27/10/2023.\n",
+    "instructions": "PRIZES\n",
+    "description": "✅1. QuickSava will be giving out 1 MOTORBIKE weekly, for the next 4 weeks.\n✅2. QuickSava will also be awarding customers on a daily basis who participate in the promotion with various prizes like;\n\t-Playstations.\n\t-Customized Soccer Jerseys.\n\t-Shopping vouchers.\n\t-Cash prizes.\n",
+    "termsHeading": "TERMS AND CONDITIONS",
+    "termsContent": "1.\tEvery cash stake of KES 49/= on Sportsbook matches is equivalent to 1 entry. \nDaily and weekly Winners will be announced on our social media pages and will also be contacted by a member of the QuickSava Staff.\nShipment Tracker will display your total entries on the website, under your profile page .\nCanceled cash bets, Virtual bets and bonus bets will not count in this promotion.\nShipment Tracker reserves the right to use the names, radio recordings, motion and still images of the winners for purposes of publicity, marketing campaigns and administering this promotion.\nShipment Tracker may limit or refuse to allow customers to take part in this or any other promotion.\nShipment Tracker reserves the right to review customer transaction records and logs for any reason. If, upon such review, it appears that a customer is using strategies which QuickSava, at its sole discretion, deems to be abusive, QuickSava reserves the right to revoke that customer's right to participate in the promotion.\nOnly one mobile number per customer is allowed to participate in the promotion.Any misuse of this promotion will lead to disqualification.\n\n",
+    "nb": "\uD83C\uDF87\t\nNB: QuickSava has the right to amend the terms of the offer, cancel or renew the offer, or refuse to allow participation at any time without prior notice.\nCustomers must provide ID documents, when required, to validate their identity (KYC). Failure to produce these documents when requested will result in the forfeiting of any prizes.\nIf QuickSava believes itself to be the victim of fraud or money laundering, the company has the right to close customers' accounts and freeze the remaining balance.\n\nShipment Tracker General terms and conditions apply in this promotion .\n",
+    "active": true,
+    "show": true,
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/12"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gurumisha Mamili na Aviator",
+    "img": "",
+    "heading": "HOW TO PLAY",
+    "intro": "Fly Aviator to WIN Upto 2,000,000/= Daily. Choose your bet amount and press confirm. Use AUTO-BET function for a guaranteed WIN. Minimum Bet – KSH 10. Maximum Bet – KSH 10,000. Maximum Win per Bet is KSH 2,000,000. Maximize your Winnings with the Double Bet feature by adding another bet anytime and set different values.\nOnce the countdown expires, the Aviator will take flight and start collecting a growing WIN multiplier. Press the “Cashout” button at any point to claim your winnings.\nWhen using the “AUTO CASHOUT”, money will be withdrawn when the MULTIPLIER exceeds the chosen AUTO-CASHOUT index. Example; If you had chosen 1.5X Index, it will cashout automatically at 1.5X and WINNINGS credited in your account.",
+    "instructions": "How to Win Aviator",
+    "description": "Press the Cashout button before the Aviator Plane flies away.\nAviator features a Double Bet Feature that allows a second bet during play. The second bet is set and activated independently of the first one and can be cashed out without cashing the initial set bet.",
+    "headingBooster": "Aviator Freebets",
+    "active": false,
+    "show": false,
+    "boosterDescription": "Play Aviator on QuickSava & Get Freebets every time.\nRegister now on https://quicksava.com/nare-games/aviator and become a potential winner.\nSign Up to play Aviator here https://quicksava.com/nare-games/aviator .",
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/6"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Pepea Angani na SpaceMan",
+    "img": "",
+    "heading": "HOW TO PLAY",
+    "intro": "Playing Spaceman is very thrilling and fun.\nWin big cash prizes when you hit the top spot and collect UPTO x5000. The multiplier always starts from 1X and goes UPTO a maximum of 5,000X.\nMinimum Bet – KSH10, Maximum Bet – KSH5000, Maximum Win Per Spaceman Bet is KES 2,500,000.\nCashOut before the spaceman crashes. Get high profits the longer Spaceman flies.\nYou can also cashout 50% of your bet and leaving the remaining 50% in play as long as you desire. The Auto CashOut and the 50% Auto Cashout as additional options. The Auto Cash-out feature finishes the game completely crediting you with the current level of winnings. The 50% Auto Cashout feature cashes out half of your stake, allowing you to continue with the remaining half to try and win a bigger prize. Get speedy outcomes whenever you play SpaceMan. Utilize the individual betting strategies using Auto",
+    "instructions": "CashOut and Auto Play",
+    "active": false,
+    "show": false,
+    "description": "Interact with a detailed bet history, statistics with a leader board showing actual Stakes and Wins. The Live chat indicates real time conversation amongst all the SpaceMan players. See up to 500 last results with each round details.\nPlay Spaceman only on QuickSava. Click here to play https://quicksava.com/gameplay/1301/1\nSpaceMan is available to NEW and EXISTING customers on the platform",
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/7"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "JetX the Money Multiplier daily",
+    "img": "",
+    "heading": "HOW TO PLAY",
+    "intro": "When playing JetX, you can put more than one bet on each round to predict which multiplier the plane will crash. The longer the plane flies, the higher the multiplier. Attain high multipliers and win Big by cashing out before the Jet goes up in flames.\nPlay JetX only on QuickSava. Click here to play https://quicksava.com/smart-play?game=JetX&category=JetX\nCashing out on JetX is Easy. You can Cash-Out by clicking the cashout button or by using the auto-withdraw option. With the Auto-CashOut option, you are able to set the Multiplier to Auto-Collect your winnings\nCashOut has never been easier as it is possible to withdraw manually while using the auto-withdraw feature. Maximize your Winnings and Minimize loses by using the auto-withdraw feature on JetX.",
+    "instructions": "Winnings",
+    "active": false,
+    "show": false,
+    "description": "Minimum Bet – KSH10, Maximum Stake per Bet is KES12,000. Maximum Win per Bet is KES 2,500,000.\nGame on real-time events, Fast Plays for High and instant Pay-outs on every successful cashout.\nThe Auto-Bet feature allows players to automatically place the bets based on their preferred betting strategy as the Auto-Cashout feature automatically Pays Out your Winnings when you reach the predefined multiplier.\nJetX offers live statistics on running live bets in the statistics section",
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/8"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Deposit 365/= get 365/= Free",
+    "img": "",
+    "heading": "HOW TO PLAY",
+    "intro": "Deposit 365/= to get 365/= Free Bonus for any deposit.\n Within the next 7 days, ONCE you DEPOSIT 365/=, QuickSava Rewards you 365/= as a BONUS INSTANTLY.\nShipment Tracker is also giving away 1000/= Cash Gifts every hour between 6 am and 6 pm DAILY for the next 7 days to customers with the highest entries! \nUnlike other Betting sites, QuickSava offers lucrative bonuses so that the players can keep enjoying various features on the website without any risk and increase earnings.",
+    "instructions": "Winnings",
+    "active": false,
+    "show": false,
+    "termsHeading": "The 365 DABO DABO Bonus Terms and Conditions are as follow",
+    "termsContent": "✅The Bonus total Odds should be EQUAL or GREATER THAN 7.99 per selection\n✅No Maximum Odds\n✅No Minimum bonus bet amount.\n✅The Maximum bonus bet amount is 1,000/=\n✅You can only Use the Bonus when your cash balance is less than 1/=\n✅Total Winnings = Total Winnings less the Initial stake.\n✅The 365 DABO DABO Bonus will EXPIRE automatically at the end of the campaign\n ",
+    "description": "Once you deposit 365/=, QuickSava will match your deposit of 365/= with a bonus of 365/= which can be used to place bets on the platform.\n The bonus rules will apply for the bonus accrued.\n Please note that the 365/= will not be withdrawable on depositing.Kindly note that you will be UNABLE to WITHDRAW ANY DEPOSIT of 365/= ONCE Awarded the 365 DABO DABO BONUS\nNote that to enjoy the BONUS , you must have placed a CASH Bet of 365 or MORE on Pre-Match or Live with Minimum Odds of 1.5.\n",
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/9"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "1500% FIRST DEPOSIT BOOSTER",
+    "img": "assets/img/products/Firstdeposit.jpeg",
+    "intro": "✅ A client receives 1500% BONUS on the FIRST ever deposit.",
+    "heading": "HOW TO PLAY",
+    "termsHeading": "TERMS AND CONDITIONS",
+    "termsContent": "✅ Make a single first deposit of any AMOUNT on QuickSava.\n✅Get 1500% of your first deposit value as Free Nare Booster to be used at QuickSava when placing bets (in the Betslip)\n✅ Start using your BOOSTERS immediately on your 1st Cash Bet. day.\n ✅This offer ONLY applies to your first ever deposit from November 25th\n✅The BOOSTER wallet funds Do Not have an expiry date.",
+    "headingBooster": "",
+    "active": false,
+    "show": true,
+    "nd": "",
+    "boosterDescription": "",
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/2"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "20% FIRST DAILY DEPOSIT BONUS",
+    "heading": "HOW TO PLAY",
+    "img": "assets/img/products/Bet_Nare_gift_Mobile.webp",
+    "intro": "✅ Get 20% daily deposit Boost on your 1st deposit of the day.\n✅ E.g., When you make a deposit of 100/=, QuickSava will boost your deposit by 20% which is 20/=. The 20/= will be Topped up into your BOOSTER walle\n",
+    "description": "",
+    "termsHeading": "TERMS AND CONDITIONS",
+    "termsContent": "✅ Deposit any AMOUNT to GET the 20% DAILY BOOSTER \n✅ The GIFT is ONLY to be issued ONCE per player, per account, per day. \n✅ Kindly Note that the Gift wallet funds Do Not have an expiry date.",
+    "headingBooster": "",
+    "active": false,
+    "show": true,
+    "nd": "",
+    "boosterDescription": "",
+    "actions": [
+      {
+        "actionType": "Read More",
+        "action": "/promo/3"
+      },
+      {
+        "actionType": "Sign Up",
+        "action": "/signup"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "100% MULTIBET LOST BONUS",
+    "heading": "HOW TO PLAY",
+    "img": "assets/img/products/Bet_Nare_100_Cashback_Mobile.webp",
+    "intro": " Place a pre-match Multibet/ accumulator of 5 or MORE selections.\n✅ If your bet is unsuccessful from 1 loss out of the accumulator, QuickSava will refund a bonus of a set percentage based on the matrix set on your stake. i.e. The bonus amount is dependent on the number of selections.",
+    "description": "",
+    "termsHeading": "TERMS AND CONDITIONS",
+    "termsContent": " This offer ONLY applies to returns on Pre-Match accumulators \n✅ The MAXIMUM BONUS that you can receive is KES250. \n✅ QuickSava may, at any time reclaim any bonus amount; Free Bets, Nare Points and enhanced payments that you may have been awarded in error. \n✅ QuickSava may at any time make minor amendments to this promotion to correct typographical errors or to improve on clarity of customer experience and may CANCEL this promotion for legal or regulatory reasons. \n✅ Bets placed with Bonuses DO NOT apply/qualify for this offer \n✅ The refund is paid in BONUS and BONUS RULES apply \n✅ Jackpot bets will not apply/ be considered for this promotion \n✅ Voided bets will not apply / be considered.",
+    "exampleHeading": "EXAMPLE",
+    "active": true,
+    "show": true,
+    "example": "✅ If I lose 1/5 and my stake was 100% THEN I will be awarded a BONUS of KES.30. \n✅ If I LOSE 1/10 folds and my STAKE was KES 100, THEN I will be awarded a bonus of KES.55. \n✅ If I LOSE 1/20 selections and my STAKE was 1000, THEN I will be awarded a bonus of KES250.",
+    "tableData": {
+      "headings": ["Types", "Bonus LOSS Breakdown Table", "Percentage"],
+      "rows": [
+        ["#", "Bet Type", "Bonus"],
+        ["1", "1/5 folds", "30% bonus"],
+        ["2", "1/6 folds", "35% bonus"],
+        ["3", "1/7 folds", "40% bonus"],
+        ["4", "1/8 folds", "45% bonus"],
+        ["5", "1/9 folds", "50% bonus"],
+        ["6", "1/10 folds", "55% bonus"],
+        ["7", "1/11 folds", "60% bonus"],
+        ["8", "1/12 folds", "get 100% bonus"]
+      ]
+    },
+      "actions": [
+        {
+          "actionType": "Read More",
+          "action": "/promo/4"
+        },
+        {
+          "actionType": "Sign Up",
+          "action": "/signup"
+        }
+      ]
+    
+  }
+]

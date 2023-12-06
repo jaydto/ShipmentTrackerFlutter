@@ -1,0 +1,112 @@
+[
+  {
+    "headerValue": "Play via SMS",
+    "data": [
+      {
+        "title": "Register Via SMS",
+        "expandedValue": "Why should I register with QuickSava?",
+        "definitions": "\nRegistration allows you to open a QuickSava account free of charge and under no obligation.\n Your QuickSava account will help you manage your bets and other account details. \nYou need to deposit actual money into your account before you can place bets.\nRegister now! To Play\n\nHow do I register with QuickSava?\n\nTo register via SMS follow these steps:\n\nTo register via SMS send “JOIN” to 29877.\nYou will receive a confirmation message with a link directing you to read the terms and conditions on QuickSava. \nOnce you have read and understood the Terms and Conditions, you are able to create an account on QuickSava."
+      },
+      {
+        "title": "Deposit via sms",
+        "expandedValue": "How do I deposit cash into my QuickSava account?",
+        "definitions": "\nOnce you have completed your registration. To deposit money into your QuickSava account is easy, just follow these steps:\n\nAccess your mobile money menu on your phone and transfer money using the QuickSava Paybill number (4087777) sent to you during registration. M-Pesa PAYBILL NUMBER; 4087777\nYour QuickSava account will be credited automatically. You will then receive a confirmation message from QuickSava for the deposit transaction. e.g.,\n KSH 15/= received. Your QuickSava account balance is; KSH 15/=        "
+      },
+      {
+        "title": "Bet Via Sms",
+        "expandedValue": "How do I place a bet?",
+        "definitions": "\nYou now have an opportunity to predict the outcome of any match available on the QuickSava platform.\n You can select any betting option from the wide range of markets available on different games and send your bet to 29877.\n\nHow do I place a Single Bet?\n\nFollow the steps below to place a single bet via sms:\n1. SMS to 29877 the Game ID of the game you wish to bet on, your prediction and the amount you wish to bet with. e.g.\n 1234#1#100 - where '1234' is the game ID, '1' is your prediction for Home team to win, and '10' is the bet amount.\n2.You will receive a confirmation message from 29877 showing your Bet ID, possible payout, and your QuickSava account balance. \nThe possible payout is calculated by multiplying your total Odds by the bet amount then subtracting 20% withholding tax. Withholding tax is 20% of your net winnings. Net winnings is possible win (Bet amount X odd) less the bet amount.\n\nHow do I place a Multi Bet?\n\nFollow the steps below to place a Multi bet via SMS.\n1. SMS to 29877 the Game IDs of the games you have selected, your predictions for these games, and the amount you want to bet with. \n(Note that a Multibet has a minimum of two games and a maximum of 30 games). e.g. \n2345#2#4567#1#1243 #X#5432 where 2345is the first Game ID,2 is the prediction, 4567is the second Game ID, 1 is the prediction, 1243 is the third Game ID and X is the prediction. \nKSH 5432 is the bet amount for your Multibet.\n2. You will receive a confirmation message from 29877 showing your Multi Bet ID, possible payout, and your QuickSava account balance. \nThe possible payout is calculated by multiplying your total Odds by the bet amount then subtracting 20% withholding tax. Withholding tax is 20% of your net winnings. \nNet winnings is possible win (Bet amount X odd) less the bet amount. \n3. You will receive an SMS confirmation indicating your bet has been placed successfully. \nNote: \b\tTo cancel a bet, send the word 'Cancel' followed by '#' and the Bet ID received in the confirmation message, to 29877. Note that you can only cancel a bet within 10 minutes of placing it. e.g. \tCancel#6565 (where 6565 is the Bet ID)\n\nHow do you play the Daily Jackpot?\n\n1. The Jackpot has 11 pre-selected matches that usually play daily. The cash prize for the Jackpot starts at KSH 100,000 . \nTo place a bet on the Jackpot, SMS to 29877 'JP' followed by '#' then the 11 predictions of the pre-selected Jackpot games. e.g. \n\b\tJP#21212X2112X\n\tNote: One does not have to enter the stake since Jackpot amount by default is KSH 10.\n2. You will receive a confirmation message from 29877 showing your Jackpot Bet ID, all the 11 predictions you have made, the bet amount and your QuickSava account balance. Note: You are a winner when all your 11 predictions match the games outcomes. \nThe Jackpot is equally shared among all the winners. Bonuses are awarded for 0/11 , and 10/11 correct predictions. \nYou can place as many bets as you wish on the Jackpot and each bet costs KSH 10."
+      },
+      {
+        "title": "Withdrawal via SMS",
+        "expandedValue": "\nGetting money is as easy as depositing it.",
+        "definitions": "\nFor example if you want to withdraw KSH 100 from your QuickSava account you will:\n SMS to 29877; W#100 - where W stands for Withdraw, 100 is the amount of money you wish to withdraw. \nNote: \b\tThe withdrawal format is standard across all mobile money service providers. i.e M-Pesa.\n You will receive a confirmation message from 29877 and Your Mobile Money account (M-Pesa) will be credited, and a second confirmation \nSMS to this effect will be sent to you by your mobile service operator."
+      },
+      {
+        "title": "Checking balance via sms",
+        "expandedValue": "How do I check my balance?",
+        "definitions": "\nSMS the word 'BALANCE' to 29877 to see how much you have on your QuickSava account. \nYou will receive a message showing your account balance. \ne.g. Your QuickSava balance is: KSH 253/= Note: If you have a pending withdrawal request, your QuickSava account balance will not include the amount you want to withdraw."
+      }
+    ]
+  },
+  {
+    "headerValue": "Play via Web",
+    "data": [
+      {
+        "title": "Registration by web",
+        "expandedValue": "Why should I register with QuickSava?",
+        "definitions": "\nRegistration allows you to open a QuickSava account free of charge and under no obligation. Your QuickSava account will help you manage your bets and other account details. \nYou need to deposit actual money into your account before you can place bets."
+      },
+      {
+        "title": "How do I Register with QuickSava?",
+        "expandedValue": "To register",
+        "definitions": "\nStep 1 Please visit www.QuickSava.com and click on the Register Now link on the top RIGHT corner of the website. \nPlease read the Terms and Conditions and fill in all the fields and click the Get verification code button or alternatively you can skip this step if you have a code already.\nFill in your phone number and the registration code SENT TO YOUR MOBILE NO.\nA confirmation message appears to confirm that your registration was successful. QuickSava!"
+      },
+      {
+        "title": "How do I place a bet via web?",
+        "expandedValue": "You have an opportunity to predict the outcome of any match available on the QuickSava website",
+        "definitions": "\nYou can select any betting option from the wide range of pre-match and live markets available on different games and place your bet. \n\nNote; All betting options are displayed and described at the foot of the page."
+      },
+      {
+        "title": "How do I place a single bet?",
+        "expandedValue": "Now you have registered and your account has been set up, kindly ensure that you log in before you place your bet",
+        "definitions": "\nThe QuickSava website is very easy to navigate, all you need to do is click on the sport you are interested in i.e FOOTBALL, Basketball, Tennis, Cricket or Rugby to find matches that you want to play on. \nTo place a single bet, click on the team you predict to win. \nClick on either the Home team (first listed team) or the Away team (second listed team). If you wish to predict that the outcome of the game will be a draw, click in the middle of the two teams to select X (DRAW). \nIf you wish to predict on the additional markets, click on the option for more markets usually displayed as (+72, +26, +12 etc. besides the game you want to bet on, to access the available betting options. Once you select your prediction, a Bet slip will appear showing the prediction you have selected, the amount which can be adjusted, the stake, excise tax, odds of your prediction, and your possible payout as well as the withholding tax that will be deducted. Note that you can edit your bet from the bet slip just to make sure that you have made the choices you want. If you would like to do away with the entire bet and start a fresh, then click on 'REMOVE ALL' Click on 'PLACE BET' to place your bet.\nAfter clicking 'OK' a confirmation message will be displayed on the screen showing:\n\nThe game you selected\nYour prediction\nThe type of bet you have placed - Single bet\nThe amount you have bet with\nThe excise tax deducted\nYour Bet ID\nYour possible payout\nYour QuickSava account balance\n\nNote: You can go straight to your Bet history by clicking on 'My bets' to see your bets"
+      },
+      {
+        "title": "How do I place a multi bet?",
+        "expandedValue": "Now you have registered and your account has been set up, kindly ensure that you log in before you place your bets. ",
+        "definitions": "The QuickSava website is very easy to navigate, all you need to do is click on the sport you are interested in i.e Football, Basketball, Tennis, Cricket or Rugby to find matches that you want to bet on in your multibet. To place a multibet, click on the team that you predict to win either Home team (first listed team) or Away team (second listed team). If you wish to predict that the outcome of the game will be a draw, click in the middle of the two teams to select X (DRAW). If you wish to predict on the additional markets, click on the option for more markets displayed as (+12, +2, +8 etc.) besides the game you want to bet on to access the available betting options. Once you select your prediction, a Bet slip will appear showing the predictions you have selected, the odds of your predictions, the amount, which can be adjusted, the stake, excise tax, odds of your prediction, and your possible payout as well as the withholding tax that will be deducted. Note that you can edit your bets from the bet slip just to make sure that you have made the choices you want. If you would like to do away with the entire bet and start a fresh, then click on 'REMOVE ALL' Click on 'PLACE BET' to place your bet. A message requesting you to 'CONFIRM YOUR BET' will pop up at this point. You can click on 'CANCEL' and go back to your bet slip, or click 'OK'\nAfter clicking 'OK' a confirmation message will be displayed on the screen showing:\n\nThe type of bet you have placed – Multi-betYour Bet IDThe amount you have bet withThe excise tax deductedYour possible payoutYour QuickSava account balanceNote: You can go straight to your Bet History by clicking on 'View History' to see your bets You will also receive a confirmation message on your mobile phone from 79079 to confirm the same bet."
+      },
+      {
+        "title": "How do you play the DAILY Jackpot?",
+        "expandedValue": "Playing Daily Jackpot",
+        "definitions": "\n1. Log into your QuickSava account and navigate to jackpot link\n 2. To place a Jackpot bet, click on the team that you predict to win. Click on either the Home team (first listed team) or the Away team (second listed team).\nIf you wish to predict that the outcome of the game will be a draw, click in the middle of the two teams to select X (DRAW).\n\nIf you correctly predict all the 9 match results, you win the Daily Jackpot prize of Kshs 100,000 /=\n3. Click on place a bet.\n4. Click Ok to confirm. A message will be displayed on your screen to confirm the placement of your Jackpot bet. NB 1: You are a winner when all your 13 predictions match with the games outcomes. Jackpot is equally shared amongst all winners."
+      },
+      {
+        "title": "How do I withdraw cash from my QuickSava account?",
+        "expandedValue": "Getting your money out is as simple as putting your money in",
+        "definitions": "\nHopefully you will have made some successful wagers and you want to transfer money to your mobile money. \nClick on the withdrawal link on the top right panel of the web site."
+      },
+      {
+        "title": "How do I check My Balance?",
+        "expandedValue": "This is display on the top right pane of the website.",
+        "definitions": "\nThe top right pane displays the Cash Balance and Bonus Wallet balances."
+      },
+      {
+        "title": "How do I log into my QuickSava account?",
+        "expandedValue": "To Login",
+        "definitions": "\nOnce you have registered you can access your QuickSava account by entering your phone number as USERNAME and the WEB PASSWORD as PASSWORD"
+      },
+      {
+        "title": "How do I check my transaction from my QuickSava account?",
+        "expandedValue": "To Check your Transactions",
+        "definitions": "\nWhen you log in with your account username and password, and click on 'Transactions' you will see all your transactions. You can choose filter from date to date."
+      },
+      {
+        "title": "How do I check my bets from my QuickSava account?",
+        "expandedValue": "To Check on Your Bets",
+        "definitions": "\nWhen you log in with your account username and password, and click on 'My Bets' you will see all your Bets. You can choose filter from date to date."
+      },
+      {
+        "title": "Virtual bets.",
+        "expandedValue": "How to Play Virtual Games",
+        "definitions": "\nWhy wait 90 Minutes when you can play Virtuals and WIN Big in Minutes? QuickSava offers a variety of Virtual games ranging from; Fantastic football league, Horse racing , Force 1 racing , Greyhound racing and Penalty shootout. Log into https://quicksava.com/virtuals to get the Virtual experience. Stake low, Win High & Fast with QuickSava Virtuals."
+      },
+      {
+        "title": "How to play Aviator",
+        "expandedValue": "To Play Aviator",
+        "definitions": "\nChoose your bet amount and input the amount in the amount slot. Once the countdown expires, the AVIATOR will take flight and start collecting a growing WIN multiplier. Cash Out at any point to claim your winnings and wait longer for the chance to add a larger multiplier. You can set a second bet alongside your initial bet to double your chances of cashing out before the AVIATOR flies away."
+      },
+      {
+        "title": "How to Win AVIATOR",
+        "expandedValue": "Winning Aviator",
+        "definitions": "\nThe way to win in AVIATOR is to successfully press cash out before the AVIATOR flies away. Once the betting phase has ended, the round starts at the set bet value with the plane increasing by 0.1x until it reaches the final amount. You can either cash out early for a small return or stick for as long as possible before pressing cash out to maximize your total return. AVIATOR also features a Double Bet feature that allows for a second bet to be active during play. \nThis second bet is set and activated independently of the first one and can be cashed out without cashing the initial set bet"
+      },
+      {
+        "title": "What is the QuickSava Customer care number?",
+        "expandedValue": "QuickSava Customer Care Number",
+        "definitions": "\nShipment Tracker offers Customer Care support round the clock. We are reachable via 0701087777 on Mobile, WhatsApp Number – 0701087777. You can also reach us through E-Mail on customercare@quicksava.com"
+      }
+    ]
+  }
+]
