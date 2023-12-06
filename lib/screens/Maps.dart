@@ -121,6 +121,18 @@ class _MapsState extends State<Maps> {
 
   @override
   Widget build(BuildContext context) {
+    final ButtonStyle btn_style = ElevatedButton.styleFrom(
+        minimumSize: Size(MediaQuery.of(context).size.width * 4.7 / 5, 48.0),
+        textStyle: const TextStyle(
+            fontFamily: 'Roboto', // Use the Roboto font family
+            letterSpacing: 2,
+            fontSize: 16,
+            color: ShipmentTrackerColors.black,
+            fontWeight: FontWeight.w500),
+        backgroundColor: Color.fromARGB(255, 245, 145, 4),
+        shape:
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(20.0)));
+
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       statusBarColor: Colors.transparent,
     ));
@@ -277,6 +289,7 @@ class _MapsState extends State<Maps> {
 
                         SizedBox(height: 16.0),
                         ElevatedButton(
+                          style: btn_style,
                           onPressed: () {
                             // Button pressed logic
                             updateMap();
@@ -284,7 +297,7 @@ class _MapsState extends State<Maps> {
                           },
                           child: Text('Add Destination'),
                         ),
-                        Text('Distance: $distance'),
+                        // Text('Distance: $distance'),
                       ],
                     ),
                   ),
